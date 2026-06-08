@@ -4,8 +4,8 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![School](https://img.shields.io/badge/School-SMK_Telkom_Purwokerto-red.svg)](https://smktelkom-pwt.sch.id/)
 
-Sebuah game platformer 2D seru yang dikembangkan sebagai bagian dari proyek pembelajaran di jurusan **Software and Game Development (PPLG)**. Terinspirasi dari game mariobrosh!
+Sebuah game platformer 2D yang terinspirasi dari game lama dan berusaha untuk mengembangkan dan juga sebagai bagian dari pembelajaran mapel kejurusan **Software and Game Development (PPLG)**. Terinspirasi dari game mariobrosh!
 
 ---
 
-© 2026 DeXzy
+© 2026 DeXzy^
